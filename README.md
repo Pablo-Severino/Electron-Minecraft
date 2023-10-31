@@ -1,4 +1,7 @@
-# electron-quick-start
+<div align="center">
+  <img src="https://github.com/Pablo-Severino/Electron-Minecraft/Minecraft.png" />
+  <h1>Electron Minecraft</h1>
+</div>
 
 **Clone and run for a quick way to see Electron in action.**
 
